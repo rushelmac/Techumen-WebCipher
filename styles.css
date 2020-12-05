@@ -94,3 +94,14 @@ h3{
 .card-body{
     text-align: center;
 }
+
+/* -----------------------------------------Bottom Jumbotron---------------------------------------- */
+
+h2{
+    text-align: center;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+}
